@@ -15,8 +15,8 @@
 
 *Building at the intersection of security and full-stack development — then writing about it*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prakash--gangurde-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash-gangurde)
-[![Medium](https://img.shields.io/badge/Medium-@prakashgangurde-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@prakashgangurde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prakash--gangurde-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakashgangurde)
+[![Medium](https://img.shields.io/badge/Medium-@prakashgangurde-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@gangurdeprakash)
 [![Profile Views](https://komarev.com/ghpvc/?username=prakashgangurde-ux&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/prakashgangurde-ux)
 [![GitHub followers](https://img.shields.io/github/followers/prakashgangurde-ux?style=flat-square&logo=github&label=Followers)](https://github.com/prakashgangurde-ux?tab=followers)
 
@@ -28,7 +28,7 @@
 
 ```python
 prakash = {
-    "education"  : "BCA Final Year — Nashik, Maharashtra",
+    "education"  : "BCA Final Year — Nashik, Maharashtra, India",
     "focus"      : ["Cybersecurity", "Full-Stack Dev", "AI/ML", "Technical Writing"],
     "approach"   : "Understand systems from both offensive and defensive sides",
     "currently"  : "Building projects + writing tutorials for students",
@@ -37,10 +37,6 @@ prakash = {
 ```
 
 I build real software — encryption tools, AI detection systems, full-stack platforms — and document every step so other students can learn from it. I believe the best way to understand how to secure a system is to first understand how to break it.
-
----
-
-</div>
 
 ---
 
@@ -144,14 +140,8 @@ Built to learn **event-driven programming**, multithreading, and GUI development
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=prakashgangurde-ux&show_icons=true&hide_border=true&theme=default&count_private=true&hide=stars" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=prakashgangurde-ux&show_icons=true&hide_border=true&theme=default&count_private=true&hide=stars&include_all_commits=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashgangurde-ux&layout=compact&hide_border=true&theme=default" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=prakashgangurde-ux&hide_border=true&theme=default)
 
 </div>
 
@@ -161,11 +151,12 @@ Built to learn **event-driven programming**, multithreading, and GUI development
 
 > I write tutorials and project breakdowns on **Medium** — Python, cybersecurity, Linux, and web development explained for students.
 
-- 📌 [Python Basics for Absolute Beginners](https://medium.com/@prakashgangurde) *(just published)*
+- 📌 [Python Basics for Absolute Beginners](https://medium.com/@gangurdeprakash) *(just published)*
 - 🔜 How I Built an AI Network Intrusion Detection System *(coming soon)*
 - 🔜 How I Built a File Encryption Vault in Python *(coming soon)*
+- 🔜 20 Linux Commands Every CS Student Should Know *(coming soon)*
 
-**Read more →** [medium.com/@prakashgangurde](https://medium.com/@prakashgangurde)
+**Read all articles →** [medium.com/@prakashgangurde](https://medium.com/@gangurdeprakash)
 
 ---
 
@@ -173,9 +164,9 @@ Built to learn **event-driven programming**, multithreading, and GUI development
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash-gangurde)
-[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prakashgangurde)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakashgangurde)
+[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gangurdeprakash)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangurdeprakash220@gmail.com)
 
 </div>
 
@@ -188,17 +179,3 @@ Built to learn **event-driven programming**, multithreading, and GUI development
 **Open to collaborating, freelance writing, and contributing to real-world projects.**
 
 </div>
-<!--
-**prakashgangurde-ux/prakashgangurde-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
