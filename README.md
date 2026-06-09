@@ -1,12 +1,10 @@
-## Hi there 👋
-
 <div align="center">
 
 ```
 ┌─────────────────────────────────────────────┐
 │  $ whoami                                   │
 │  > Prakash Gangurde                         │
-│  > Developer · Security · Content Creator  │
+│  > Developer · Security · Content Creator   │
 │  > Nashik, Maharashtra, India               │
 └─────────────────────────────────────────────┘
 ```
@@ -41,16 +39,6 @@ prakash = {
 I build real software — encryption tools, AI detection systems, full-stack platforms — and document every step so other students can learn from it. I believe the best way to understand how to secure a system is to first understand how to break it.
 
 ---
-
-## 🏅 Certifications
-
-<div align="center">
-
-[![Postman API Fundamentals](https://img.shields.io/badge/Postman-API%20Fundamentals%20Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/prakashgangurde-ux)
-[![Snowflake Data Warehouse](https://img.shields.io/badge/Snowflake-Hands%20On%20Essentials%3A%20Data%20Warehouse-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://github.com/prakashgangurde-ux)
-[![Snowflake Collaboration](https://img.shields.io/badge/Snowflake-Hands%20On%20Essentials%3A%20Collaboration-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://github.com/prakashgangurde-ux)
-[![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations%20Certification-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakashgangurde-ux)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot%20Certification-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakashgangurde-ux)
 
 </div>
 
