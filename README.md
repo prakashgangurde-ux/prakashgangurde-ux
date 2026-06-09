@@ -136,14 +136,17 @@ Built to learn **event-driven programming**, multithreading, and GUI development
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub at a Glance
 
-<div align="center">
+| | |
+|---|---|
+| 🗂️ Public repositories | **13** |
+| ⭐ Total contributions | **70+** (Dec 2024 – present) |
+| 🐍 Primary language | **Python** |
+| 🌐 Also working in | **JavaScript, HTML, CSS, SQL** |
+| 🔐 Focus area | **Cybersecurity + Full-Stack** |
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=prakashgangurde-ux&show_icons=true&hide_border=true&theme=default&count_private=true&hide=stars&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashgangurde-ux&layout=compact&hide_border=true&theme=default" />
-
-</div>
+> Stats update manually — last updated June 2026
 
 ---
 
